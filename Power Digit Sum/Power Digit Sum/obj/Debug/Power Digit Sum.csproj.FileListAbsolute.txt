@@ -1,0 +1,6 @@
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Power Digit Sum\Power Digit Sum\bin\Debug\Power Digit Sum.exe.config
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Power Digit Sum\Power Digit Sum\bin\Debug\Power Digit Sum.exe
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Power Digit Sum\Power Digit Sum\bin\Debug\Power Digit Sum.pdb
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Power Digit Sum\Power Digit Sum\obj\Debug\Power Digit Sum.csprojResolveAssemblyReference.cache
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Power Digit Sum\Power Digit Sum\obj\Debug\Power Digit Sum.exe
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Power Digit Sum\Power Digit Sum\obj\Debug\Power Digit Sum.pdb
